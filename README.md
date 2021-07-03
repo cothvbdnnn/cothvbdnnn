@@ -7,7 +7,8 @@ import annotations from 'future'
 const thanh = {
   code: ['Javascript', 'Typescript', 'PHP', 'HTML', 'CSS'],
   tools: ['Vue', 'React', 'Jest'],
-  architecture: ['Microfrontend']
+  architecture: ['Microfrontend'],
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
