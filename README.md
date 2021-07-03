@@ -4,8 +4,8 @@ Hi, I'm Thành, a passionate self-taught Frontend developer.
 ```javascript
 const thanh = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  tools: [Vue, React, Jest],
+  architecture: ["microfrontend"]
 }
 ```
 
