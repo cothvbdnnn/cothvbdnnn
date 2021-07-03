@@ -3,9 +3,9 @@ Hi, I'm Thành, a passionate self-taught Frontend developer.
 
 ```javascript
 const thanh = {
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [Vue, React, Jest],
-  architecture: ["microfrontend"]
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
+  tools: ['Vue', 'React', 'Jest'],
+  architecture: ['Microfrontend']
 }
 ```
 
