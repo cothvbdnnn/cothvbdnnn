@@ -2,6 +2,8 @@ Hi, I'm Thành, a passionate self-taught Frontend developer.
 
 
 ```javascript
+import annotations from 'future'
+
 const thanh = {
   code: ['Javascript', 'Typescript', 'PHP', 'HTML', 'CSS'],
   tools: ['Vue', 'React', 'Jest'],
