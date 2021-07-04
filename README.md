@@ -1,4 +1,4 @@
-<img align='right' src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/vecto-cat.png" width="300">
+<img align='right' src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/cat.png" width="300">
 
 ```javascript
 console.log(
