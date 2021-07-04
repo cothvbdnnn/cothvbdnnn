@@ -11,4 +11,10 @@ const thanh = {
 }
 ```
 <code><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/js.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/jest.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/single-spa.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/webpack.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/git.png"></code>
