@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="300">
+<img align='right' src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/vector-cat.png" width="300">
 
 ```javascript
 import annotations from 'future'
