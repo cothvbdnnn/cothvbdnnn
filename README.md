@@ -3,7 +3,7 @@ import annotations from 'future'
 
 console.log('Hi, I am Thành, a passionate self-taught Frontend developer')
 
-const thanh = {
+const Thanh = {
   code: ['Javascript', 'Typescript', 'PHP', 'HTML', 'CSS'],
   tools: ['Vue', 'React', 'Jest'],
   architecture: ['Microfrontend'],
