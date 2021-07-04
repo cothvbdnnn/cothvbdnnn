@@ -10,7 +10,5 @@ const thanh = {
   challenge: 'I am doing the "300 bài code thiếu nhi"'
 }
 ```
-<img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/js.png">
-<img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/vue.png">
-<img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/react.png">
-<img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/firebase.png">
+<code><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/js.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/firebase.png"></code>
