@@ -1,7 +1,8 @@
 <p>
   <a><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/gmail.png"></a>&nbsp;
 </p>
-```javascript
+```
+javascript
 import annotations from 'future'
 
 console.log('Hi, I am Thành, a passionate self-taught Frontend developer')
