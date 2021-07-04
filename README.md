@@ -1,8 +1,3 @@
-<div>
-  <a href="mailto:ngncthanh10@gmail.com"><img height="20" width="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/gmail.png"></a>&nbsp;
-  <a href="#" onclick='window.open("https://www.instagram.com/kuu.jpg");return false;'><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/instagram.png"></a>&nbsp;
-  <a href="fb/withkuu.com" target="_blank"><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/facebook.png"></a>&nbsp;
-</div>
 
 ```javascript
 import annotations from 'future'
