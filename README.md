@@ -3,7 +3,9 @@
 ```javascript
 import annotations from 'future'
 
-console.log('Hi, I am Thành, a passionate self-taught Frontend developer')
+console.log(
+  'Hi, I am Thành, a passionate self-taught Frontend developer'
+)
 
 const Thanh = {
   code: ['Javascript', 'Typescript', 'PHP', 'HTML', 'CSS'],
