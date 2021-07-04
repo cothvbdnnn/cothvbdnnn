@@ -1,7 +1,7 @@
 <div>
   <a href="mailto:ngncthanh10@gmail.com"><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/gmail.png"></a>&nbsp;
-  <a href="https://www.instagram.com/kuu.jpg/" target="__blank"><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/instagram.png"></a>&nbsp;
-  <a href="fb/withkuu.com" target="__blank"><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/facebook.png"></a>&nbsp;
+  <a href="https://www.instagram.com/kuu.jpg/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/instagram.png"></a>&nbsp;
+  <a href="fb/withkuu.com" target="_blank"><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/facebook.png"></a>&nbsp;
 </div>
 
 ```javascript
