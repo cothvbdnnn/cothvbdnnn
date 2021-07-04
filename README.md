@@ -11,10 +11,10 @@ const thanh = {
 }
 ```
 <p>
-  <img height="20" width="30" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/vue.png">
-  <img height="20" width="30" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/react.png">
-  <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/firebase.png">
-  <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/jest.png">
-  <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/single-spa.png">
+  <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/vue.png">&nbsp;
+  <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/react.png">&nbsp;
+  <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/firebase.png">&nbsp;
+  <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/jest.png">&nbsp;
+  <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/single-spa.png">&nbsp;
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/webpack.png">
 </p>
