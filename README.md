@@ -1,6 +1,3 @@
-<p>
-  <a><img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/gmail.png"></a>&nbsp;
-</p>
 ```javascript
 import annotations from 'future'
 
