@@ -1,4 +1,4 @@
-<img align='right' src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/cat.png" width="400">
+<img align='right' src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/cat.png" width="350">
 
 ```javascript
 console.log(
