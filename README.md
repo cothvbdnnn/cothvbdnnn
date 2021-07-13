@@ -8,7 +8,7 @@ console.log(
 const Thanh = {
   code: ['Javascript', 'Typescript', 'PHP', 'HTML', 'CSS'],
   tools: ['Vue', 'React', 'Jest'],
-  architecture: ['Microfrontend'],
+  architecture: ['Microfrontend', 'Monorepo'],
   challenge: 'I am doing the "300 bài code thiếu nhi"'
 }
 ```
