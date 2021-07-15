@@ -5,7 +5,7 @@ console.log(
   'Hi, I am Thành, a passionate self-taught Frontend developer'
 )
 
-const Thnh = {
+const Thành = {
   code: ['Javascript', 'Typescript', 'PHP', 'HTML', 'CSS'],
   tools: ['Vue', 'React', 'Jest'],
   architecture: ['Microfrontend', 'Monorepo'],
