@@ -24,4 +24,6 @@ const Thành = {
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/ubuntu.png">&nbsp;
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/visual.png">&nbsp;
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/eslint.png">&nbsp;
+  <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/ps.png">&nbsp;
+  <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/ai.png">&nbsp;
 </p>
