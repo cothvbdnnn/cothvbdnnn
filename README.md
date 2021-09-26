@@ -7,7 +7,7 @@ console.log(
 
 const Thành = {
   code: ['Javascript', 'Typescript', 'PHP', 'HTML', 'CSS'],
-  tools: ['Vue', 'React', 'Jest'],
+  tools: ['Vue', 'React', 'Node', 'Jest'],
   architecture: ['Microfrontend', 'Monorepo'],
   challenge: 'I am doing the 300 bài code thiếu nhi'
 }
