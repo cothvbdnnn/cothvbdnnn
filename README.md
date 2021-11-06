@@ -26,6 +26,6 @@ const Thành = {
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/visual.png">&nbsp;
 </p>
 
-<img src="https://viblo.asia/embed?url=https://viblo.asia/u/ngncthanh10">
+<img src="https://viblo.asia/embed/users/ngncthanh10">
 
 
