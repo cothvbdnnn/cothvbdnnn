@@ -26,16 +26,12 @@ const Thành = {
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/visual.png">&nbsp;
 </p>
 
-<iframe id="github-iframe" src=""></iframe>
-<script>
-    fetch('https://api.github.com/repos/ileathan/hubot-mubot/contents/src/mubot.coffee')
-        .then(function(response) {
-            return response.json();
-        }).then(function(data) {
-            var iframe = document.getElementById('github-iframe');
-            iframe.src = 'data:text/html;base64,' + encodeURIComponent(data['content']);
-        });
-</script>
+<iframe style="height:300px; width:300px;" src="https://github.com/renielcanlas">
+<b>IFrame is unavailable here</b>
+</iframe>
 
+<iframe style="height:300px; width:300px;" src="https://renielcanlas.github.io">
+<b>IFrame is unavailable here</b>
+</iframe>
 
 
