@@ -25,5 +25,7 @@ const Thành = {
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/storybook.png">&nbsp;
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/visual.png">&nbsp;
 </p>
-[![Spotify](https://viblo.asia/embed?url=https://viblo.asia/u/ngncthanh10)](https://viblo.asia/embed?url=https://viblo.asia/u/ngncthanh10)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
