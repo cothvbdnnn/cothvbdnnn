@@ -10,7 +10,7 @@ const Thành = {
   code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
   tools: ['Vue', 'React', 'Node', 'Jest'],
   architecture: ['Microfrontend', 'Monorepo'],
-  challenge: 'I am doing the 300 bài code thiếu nhi'
+  challenge: 'I am doing the "300 bài code thiếu nhi"'
 }
 ```
 <p>
