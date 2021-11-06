@@ -25,13 +25,3 @@ const Thành = {
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/storybook.png">&nbsp;
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/visual.png">&nbsp;
 </p>
-
-<iframe style="height:300px; width:300px;" src="https://github.com/renielcanlas">
-<b>IFrame is unavailable here</b>
-</iframe>
-
-<iframe style="height:300px; width:300px;" src="https://renielcanlas.github.io">
-<b>IFrame is unavailable here</b>
-</iframe>
-
-
