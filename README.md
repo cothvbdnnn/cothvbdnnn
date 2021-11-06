@@ -2,7 +2,8 @@
 
 ```javascript
 console.log(
-  'Hi, I am Thành, a passionate self-taught Frontend developer'
+  'Hi, I am Thành
+  a passionate self-taught Frontend developer'
 )
 
 const Thành = {
@@ -24,4 +25,3 @@ const Thành = {
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/storybook.png">&nbsp;
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/visual.png">&nbsp;
 </p>
-<iframe id="frame" src="https://viblo.asia/embed?url=https://viblo.asia/u/ngncthanh10" width="300px" frameborder="1"></iframe>
