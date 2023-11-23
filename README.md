@@ -3,7 +3,7 @@
 ```javascript
 console.log(
   'Hi, I am Thành
-  a passionate self-taught Fullstack developer'
+  a passionate self-taught Frontend developer'
 )
 
 const Thành = {
