@@ -9,15 +9,12 @@ console.log(
 const Thành = {
   code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
   tools: ['Vue', 'React', 'Node', 'Jest'],
-  architecture: ['Microfrontend', 'Monorepo'],
   challenge: 'I am doing the "300 bài code thiếu nhi"'
 }
 ```
 <p>
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/vue.png">&nbsp;
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/react.png">&nbsp;
-  <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/node.png">&nbsp;
-  <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/firebase.png">&nbsp;
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/singlespa.png">&nbsp;
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/webpack.png">&nbsp;
   <img height="20" src="https://raw.githubusercontent.com/cothvbdnnn/cothvbdnnn/main/icons/emmet.png">&nbsp;
